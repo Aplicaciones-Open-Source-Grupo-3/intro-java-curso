@@ -3,7 +3,7 @@
 ## Resumen del curso
 Duración: ~60 minutos  
 Público objetivo: estudiantes de 12 a 17 años  
-Repositorio:
+**Repositorio:** [https://github.com/Aplicaciones-Open-Source-Grupo-3/intro-java-curso](https://github.com/Aplicaciones-Open-Source-Grupo-3/intro-java-curso)
 
 ## Secuencia de lecciones
 ### Sesión 1: ¿Qué es la programación y por qué Java?
