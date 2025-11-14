@@ -17,11 +17,11 @@ El curso se divide en **5 sesiones** progresivas:
 
 | Sesión | Tema principal | Enlace al código | Video |
 |--------|----------------|------------------|--------|
-| 1 | ¿Qué es la programación y por qué Java? | [`starter-files/sesion1`](./starter-files/sesion1) | _(Pendiente)_ |
-| 2 | Variables y tipos de datos | [`starter-files/sesion2`](./starter-files/sesion2) | _(Pendiente)_ |
-| 3 | Operadores y estructuras de control | [`starter-files/sesion3`](./starter-files/sesion3) | _(Pendiente)_ |
-| 4 | Métodos y entrada/salida | [`starter-files/sesion4`](./starter-files/sesion4) | _(Pendiente)_ |
-| 5 | Programación orientada a objetos | [`starter-files/sesion5`](./starter-files/sesion5) | _(Pendiente)_ |
+| 1 | ¿Qué es la programación y por qué Java? | [`starter-files/sesion1`](./starter-files/sesion1) | [Ver la lección](https://youtu.be/T4ntGdHlxy4?si=Hv_x-JBETLZdc9Do) |
+| 2 | Variables y tipos de datos | [`starter-files/sesion2`](./starter-files/sesion2) | [Ver la lección](https://youtu.be/R0bS98Km-6w?si=ctwYgRKqrcp0OUb-) |
+| 3 | Operadores y estructuras de control | [`starter-files/sesion3`](./starter-files/sesion3) | [Ver la lección](https://youtu.be/Q9Lz_8gA5II?si=r02BG3Bh13_FfjTf) |
+| 4 | Métodos y entrada/salida | [`starter-files/sesion4`](./starter-files/sesion4) |[Ver la lección](https://youtu.be/NM4qtTjW5kY?si=Uo2wr_ZuvPJ8aNQ6) |
+| 5 | Programación orientada a objetos | [`starter-files/sesion5`](./starter-files/sesion5) | [Ver la lección](https://youtu.be/nJ99gRIe8Wk?si=tsOr_QzuhE_giNNo) |
 
 ---
 
