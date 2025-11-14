@@ -12,7 +12,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
 
-**Repositorio:** [https://github.com/Aplicaciones-Open-Source-Grupo-3/intro-java-curso](https://github.com/Aplicaciones-Open-Source-Grupo-3/intro-java-curso)
+**Repositorio:** [https://github.com/Aplicaciones-Open-Source-Grupo-3/java-fundamentals-course-QuickPark.git](https://github.com/Aplicaciones-Open-Source-Grupo-3/java-fundamentals-course-QuickPark.git)
 
 --- 
 
@@ -20,7 +20,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Sesión 1: ¿Qué es la programación y por qué Java?
 - **Descripción:** Introducción a la programación, qué es un lenguaje de programación, y por qué Java es una buena opción para empezar
-- **Enlace al video:** [Ver la lección](https://www.youtube.com)
+- **Enlace al video:** [Ver la lección](https://youtu.be/T4ntGdHlxy4?si=Hv_x-JBETLZdc9Do)
 - **Conclusiones clave**:
   * Programar significa dar instrucciones a una computadora
   * Java es multiplataforma y usado en miles de aplicaciones reales
@@ -31,7 +31,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Sesión 2: Variables y tipos de datos
 - **Descripción:** Variables, tipos de datos (int, double, String) y operaciones básicas
-- **Enlace al video:** [Ver la lección](https://www.youtube.com)
+- **Enlace al video:** [Ver la lección](https://youtu.be/R0bS98Km-6w?si=ctwYgRKqrcp0OUb-)
 - **Conclusiones clave**:
   * Una variable almacena información
   * Los tipos de datos ayudan a definir qué tipo de valor puedes guardar
@@ -42,7 +42,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Sesión 3: Operadores y estructuras de control
 - **Descripción:** Se introducen los operadores aritméticos, de comparación y lógicos, así como las estructuras de decisión (`if`, `else`, `switch`) y bucles (`for`, `while`).  
-- **Enlace al video:** [Ver la lección](https://www.youtube.com)
+- **Enlace al video:** [Ver la lección](https://youtu.be/Q9Lz_8gA5II?si=r02BG3Bh13_FfjTf)
 - **Conclusiones clave**:
   * Los operadores permiten comparar valores
   * Los condicionales sirven para tomar decisiones
@@ -52,7 +52,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Sesión 4: Métodos y entrada/salida
 - **Descripción:** En esta sesión se explica qué son los métodos en Java, cómo definirlos, enviar parámetros y devolver valores. Además, se muestra cómo interactuar con el usuario mediante `Scanner` y `System.out.println()`
-- **Enlace al video:** [Ver la lección](https://www.youtube.com)
+- **Enlace al video:** [Ver la lección](https://youtu.be/NM4qtTjW5kY?si=Uo2wr_ZuvPJ8aNQ6)
 - **Conclusiones clave**:
   * Un método organiza y reutiliza código
   * Scanner permite interactuar con el usuario
@@ -61,7 +61,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Sesión 5: Programación orientada a objetos
 - **Descripción:** Introducción a la Programación Orientada a Objetos (POO) en Java. Se explican los conceptos de clase, objeto, atributos, métodos, encapsulación y constructores, aplicándolos en un mini proyecto práctico
-- **Enlace al video:** [Ver la lección](https://www.youtube.com)
+- **Enlace al video:** [Ver la lección](https://youtu.be/nJ99gRIe8Wk?si=tsOr_QzuhE_giNNo)
 - **Conclusiones clave**:
   * Una clase es un plano; un objeto es una instancia
   * La encapsulación protege los datos
