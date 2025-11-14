@@ -1,8 +1,14 @@
 # Fundamentos de Java para Principiantes
 
 ## Resumen del curso
+
+Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluyendo programación orientada a objetos. **¡No requiere descargas!** Solo abre tu navegador web.
+
 Duración: ~60 minutos  
-Público objetivo: estudiantes de 12 a 17 años  
+**Público Objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación 
+**Prerrequisitos**: Ninguno
+**Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
+
 **Repositorio:** [https://github.com/Aplicaciones-Open-Source-Grupo-3/intro-java-curso](https://github.com/Aplicaciones-Open-Source-Grupo-3/intro-java-curso)
 
 ## Secuencia de lecciones
