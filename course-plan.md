@@ -25,8 +25,8 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   * Programar significa dar instrucciones a una computadora
   * Java es multiplataforma y usado en miles de aplicaciones reales
 - **Práctica**:
-  * Ejercicio 1: [Abrir JDoodle](https://www.jdoodle.com/ia/1N1Q)
-  * Ejercicio 2: [Abrir JDoodle](https://www.jdoodle.com/ia/1N1T)
+  * Hello World: [Abrir JDoodle](https://www.jdoodle.com/ia/1N1Q)
+  * Tarjeta de Presentación: [Abrir JDoodle](https://www.jdoodle.com/ia/1N1T)
 - **Mini reto**: Modificar el mensaje para que imprima 3 datos sobre ti
 
 ### Sesión 2: Variables y tipos de datos
@@ -36,8 +36,8 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   * Una variable almacena información
   * Los tipos de datos ayudan a definir qué tipo de valor puedes guardar
 - **Práctica**:
-  * Ejercicio 1: [Abrir JDoodle](https://www.jdoodle.com/ia/1N1U)
-  * Ejercicio 2: [Abrir JDoodle](https://www.jdoodle.com/ia/1N1V)
+  * Suma Promedio: [Abrir JDoodle](https://www.jdoodle.com/ia/1N1U)
+  * Conversor Celsius a Fahrenheit: [Abrir JDoodle](https://www.jdoodle.com/ia/1N1V)
 - **Mini reto**: Realizar una calculadora que permita sumar, restar, dividir y multiplicar
 
 ### Sesión 3: Operadores y estructuras de control
