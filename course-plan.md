@@ -71,7 +71,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ---
 
 ## Recursos adicionales
-- **Código fuente completo**: [Repositorio de GitHub](https://github.com/Aplicaciones-Open-Source-Grupo-3/intro-java-curso)
+- **Código fuente completo**: [Repositorio de GitHub](https://github.com/Aplicaciones-Open-Source-Grupo-3/java-fundamentals-course-QuickPark.git)
 - **Todas las actividades prácticas**:
 
 | Número de lección | Actividad | Empezar a programar |
