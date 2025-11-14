@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        // TODO: Escribe aquí tu presentación
+        // TODO: imprime "Hola Java"
+        // TODO: imprime una segunda línea con un mensaje tuyo
     }
 }
